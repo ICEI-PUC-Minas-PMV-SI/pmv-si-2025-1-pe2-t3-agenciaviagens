@@ -2,12 +2,12 @@ cff-version: 1.0.1
 message: Please cite this software using these metadata.
 title: Agência de Viagens
 authors:
-  - family-names: Claudino Carvalh
+  - family-names: Claudino Carvalho
     given-names: Julio Cesar
   - family-names: Vieira Ferreira Diogo
     given-names: Lucas 
-  - family-names: Otavio Vitor Ferreira
-    given-names: Luiz 
+  - family-names: Vitor Ferreira
+    given-names: Luiz Otavio
   - family-names: Rocha da Costa
     given-names: Nico 
   - name-suffix: Professora
