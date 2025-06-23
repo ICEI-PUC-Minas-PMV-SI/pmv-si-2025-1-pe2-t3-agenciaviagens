@@ -1,16 +1,16 @@
-# Nome do projeto
+# Agência de Viagens
 
-Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
+O projeto tem como objetivo trazer soluções para processos de negócios de agências de viagens regionais, visando tornar os processos operacionais e rotineiros mais eficientes. A proposta de solução e melhorias abrange os processos de registro de turistas no sistema, cadastro de destinos e pacotes e vendas de viagem. 
+
+Com as melhorias de tais processos espera-se trazer mais eficiência na gestão das atividades, confiabilidade dos dados e flexibilidade. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Julio Cesar Claudino Carvalho
+* Lucas Vieira Ferreira Diogo       
+* Luiz Otavio Vitor Ferreira
+* Nico Rocha da Costa
 
 ## Professor
 
-* Nome completo do professor
+* Rosilane Ribeiro da Mota
